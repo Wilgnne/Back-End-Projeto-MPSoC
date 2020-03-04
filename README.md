@@ -1,1 +1,3 @@
-# Back-End-Projeto-MPSoC-
+# Back-End-Projeto-MPSoC
+
+Implementação inicial em Node.JS
